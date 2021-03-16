@@ -11,7 +11,7 @@ chkTab = "cm11JAN2021bhav"
 stockName = " "
 HammerT = {}
 gap=0
-daYN = -1
+dayN = -1
 percUW = 0.0
 HammerTchk = 0
 
